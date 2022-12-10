@@ -1,7 +1,7 @@
 package main
 
 import (
-	"advent4/internal/elftools"
+	"advent5/internal/elftools"
 	"bufio"
 	"fmt"
 	"os"
